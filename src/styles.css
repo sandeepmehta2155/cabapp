@@ -6,6 +6,9 @@
   padding: 1rem;
 }
 
+.heading {
+  text-align: center;
+}
 fieldset {
   background-color: #faf4f4;
   width: 70%;

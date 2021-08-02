@@ -7,13 +7,13 @@ export function Header() {
     <>
       {" "}
       {/* definining header component */}
-      <h1>
+      <h1 className="heading">
         Cab-app{" "}
         <span role="img" aria-labelledby="cab">
           🚕{" "}
         </span>
       </h1>
-      <h1> Welcome {user} ! </h1>{" "}
+      <h1 className="heading"> Welcome {user} ! </h1>{" "}
     </>
   );
 }
