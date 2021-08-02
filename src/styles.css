@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  /* text-align: center; */
+}
+
+fieldset {
+  background-color: #faf4f4;
+}
+
+legend {
+  background-color: white;
+  border: 1px solid black;
+  color: white;
+  padding: 5px 10px;
+}
+
+input,
+select {
+  float: right;
+  margin-right: 30%;
+}
+
+button {
+  margin: auto;
+}
