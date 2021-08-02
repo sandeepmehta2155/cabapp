@@ -6,8 +6,7 @@ export default function App() {
     <div className="App">
       <br />
       <useComponent.Header />
-      <br />
-      <br />
+
       <useComponent.UserInput />
     </div>
   );

@@ -84,6 +84,9 @@ export function UserInput() {
 
   return (
     <>
+      <br />
+      <br />
+
       <fieldset>
         <legend>
           <span role="img" aria-labelledby="cab">
